@@ -1,0 +1,1 @@
+# projeto-full-stack-com-next-js
